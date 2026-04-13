@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Stephanie 👋
 
-<!--
-**Stephnakass/Stephnakass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning Python  
+🚀 Building projects and improving every day  
+🎯 Goal: Become a Python developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+- MoodBot 🤖
+- Sales Calculator 💰
+- Number Guessing Game 🎯
+
+---
+
+## 🌱 Currently Learning
+- Python fundamentals
+- File handling
+- GitHub & version control
+
+---
+
+## 📌 Goals
+- Build 10+ Python projects
+- Learn real-world programming skills
+- Get a remote Python job
