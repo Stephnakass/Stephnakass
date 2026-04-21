@@ -43,7 +43,7 @@ A Python game featuring:
 
 ---
 
-### 🤖 MoodBot  
+### 🤖 Mood Chatbot  
 A simple interactive chatbot that responds dynamically based on user mood input.
 
 - Accepts user input and interprets mood  
