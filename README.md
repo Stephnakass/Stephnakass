@@ -50,10 +50,16 @@ A simple interactive chatbot that responds based on user mood input.
 
 ---
 
-### 💰 Order Organizer
-A Python program for calculating totals and simulating basic sales scenarios.
+### 📦 Order Organizer  
+A tool for organizing and tracking customer orders, designed to simulate real-world business workflows.
 
-👉 [View Project](https://github.com/Stephnakass/order-organizer)
+Features may include:
+- Creating and storing orders  
+- Viewing and organizing order data  
+- Managing structured information  
+- File-based data storage  
+
+👉 [View Project](https://github.com/Stephnakass/order_organizer)
 
 ---
 
