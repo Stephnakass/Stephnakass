@@ -44,7 +44,12 @@ A Python game featuring:
 ---
 
 ### 🤖 MoodBot  
-A simple interactive chatbot that responds based on user mood input.
+A simple interactive chatbot that responds dynamically based on user mood input.
+
+- Accepts user input and interprets mood  
+- Provides different responses based on conditions  
+- Demonstrates basic conversational logic  
+- Uses conditional statements and user interaction  
 
 👉 [View Project](https://github.com/Stephnakass/mood-chatbot)
 
