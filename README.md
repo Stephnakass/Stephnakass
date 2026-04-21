@@ -46,14 +46,14 @@ A Python game featuring:
 ### 🤖 MoodBot  
 A simple interactive chatbot that responds based on user mood input.
 
-👉 [View Project](https://github.com/Stephnakass/moodbot)
+👉 [View Project](https://github.com/Stephnakass/mood-chatbot)
 
 ---
 
-### 💰 Sales Calculator  
+### 💰 Order Organizer
 A Python program for calculating totals and simulating basic sales scenarios.
 
-👉 [View Project](https://github.com/Stephnakass/sales-calculator)
+👉 [View Project](https://github.com/Stephnakass/order-organizer)
 
 ---
 
