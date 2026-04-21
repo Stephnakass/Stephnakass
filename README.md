@@ -1,31 +1,59 @@
 # Hi, I'm Stephanie 👋
 
-💻 Learning Python and building real projects  
-🚀 Consistently improving through hands-on coding  
-🎯 Goal: Become a Python developer  
+💻 Python developer in progress  
+🚀 Building real projects and improving every day  
+🎯 Goal: Become a remote Python developer  
 
 ---
 
 ## 🔨 Projects
 
-### 🤖 MoodBot  
-A simple interactive chatbot that responds based on user mood input.
-
-### 💰 Sales Calculator  
-A Python program that calculates totals and helps simulate basic sales scenarios.
-
-### 🎯 Number Guessing Game  
-A game with multiple difficulty levels, limited attempts, and replay functionality.
-
 ### 📋 To-Do List App  
-[View Project](https://github.com/Stephnakass/todo-list)  
 A feature-rich command-line task manager with:
 - Task creation and tracking  
 - Completed vs unfinished task views  
-- Ability to mark tasks complete or undo them  
+- Mark tasks complete or undo them  
 - File saving and loading (data persistence)  
 - Progress summary system  
-- Clean, user-friendly terminal interface  
+- Clean terminal interface  
+
+👉 [View Project](https://github.com/Stephnakass/todo_list)
+
+---
+
+### 💰 Budget Tracker  
+A command-line budgeting tool that allows users to:
+- Track income and expenses  
+- View totals and balance  
+- Delete entries  
+- Save and load financial data  
+- Manage real-world financial tracking scenarios  
+
+👉 [View Project](https://github.com/Stephnakass/budget_tracker)
+
+---
+
+### 🎯 Number Guessing Game  
+A Python game featuring:
+- Multiple difficulty levels  
+- Limited attempts  
+- Replay functionality  
+
+👉 [View Project](https://github.com/Stephnakass/number_guessing_game)
+
+---
+
+### 🤖 MoodBot  
+A simple interactive chatbot that responds based on user mood input.
+
+👉 [View Project](https://github.com/Stephnakass/moodbot)
+
+---
+
+### 💰 Sales Calculator  
+A Python program for calculating totals and simulating basic sales scenarios.
+
+👉 [View Project](https://github.com/Stephnakass/sales_calculator)
 
 ---
 
@@ -33,8 +61,8 @@ A feature-rich command-line task manager with:
 
 - Python fundamentals  
 - File handling & data persistence  
-- Writing cleaner, more structured code  
-- GitHub & version control  
+- Writing cleaner, structured code  
+- Building real-world style applications  
 
 ---
 
@@ -43,10 +71,10 @@ A feature-rich command-line task manager with:
 - Build 10+ Python projects  
 - Improve code structure using functions  
 - Learn real-world programming patterns  
-- Work toward a remote Python job  
+- Get a remote Python job  
 
 ---
 
 ## 📈 Progress
 
-Actively building and improving projects while developing real programming skills.
+Actively building a portfolio of Python projects with increasing complexity and real-world functionality.
