@@ -17,7 +17,7 @@ A feature-rich command-line task manager with:
 - Progress summary system  
 - Clean terminal interface  
 
-👉 [View Project](https://github.com/Stephnakass/todo_list)
+👉 [View Project](https://github.com/Stephnakass/todo-list)
 
 ---
 
@@ -29,7 +29,7 @@ A command-line budgeting tool that allows users to:
 - Save and load financial data  
 - Manage real-world financial tracking scenarios  
 
-👉 [View Project](https://github.com/Stephnakass/budget_tracker)
+👉 [View Project](https://github.com/Stephnakass/budget-tracker)
 
 ---
 
@@ -39,7 +39,7 @@ A Python game featuring:
 - Limited attempts  
 - Replay functionality  
 
-👉 [View Project](https://github.com/Stephnakass/number_guessing_game)
+👉 [View Project](https://github.com/Stephnakass/number-guessing-game)
 
 ---
 
@@ -53,7 +53,7 @@ A simple interactive chatbot that responds based on user mood input.
 ### 💰 Sales Calculator  
 A Python program for calculating totals and simulating basic sales scenarios.
 
-👉 [View Project](https://github.com/Stephnakass/sales_calculator)
+👉 [View Project](https://github.com/Stephnakass/sales-calculator)
 
 ---
 
